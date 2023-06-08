@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/JoseArjona/count.svg)
 
-Me gusta la idea de construir software que ayude a mejorar la vida de las personas.
+Un Lol?
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Desarrollador+Front+-+End+💻;🎮+Casual+Gamer"alt="XD">
