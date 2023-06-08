@@ -1,4 +1,4 @@
-## Hola 👋, Soy Eduardo Zepeda, Desarrollador Web Mexicano 🇲🇽. 🟩⬜🟥 <img align="center" alt="Zepeda"  src="https://img.shields.io/github/followers/JoseArjona.svg?style=social&label=Follow&maxAge=2592000m">
+## Hola 👋, Soy Eduardo Zepeda, Desarrollador Web Mexicano 🇲🇽. 🟩⬜🟥 <img align="center" alt="Zepeda"  src="https://img.shields.io/github/followers/CesarZepeda23.svg?style=social&label=Follow&maxAge=2592000m">
 
 ![Visitor Count](https://profile-counter.glitch.me/JoseArjona/count.svg)
 
@@ -9,8 +9,8 @@ Un Lol?
 </p>
 
 <div >
-<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArjona&show_icons=true&theme=gotham">
-<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArjona&layout=compact&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarZepeda23&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarZepeda23&layout=compact&show_icons=true&theme=gotham">
 
 </div>
 
