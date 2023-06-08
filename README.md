@@ -1,6 +1,6 @@
 ## Hola 👋, Soy Eduardo Zepeda, Desarrollador Web Mexicano 🇲🇽. 🟩⬜🟥 <img align="center" alt="Zepeda"  src="https://img.shields.io/github/followers/CesarZepeda23.svg?style=social&label=Follow&maxAge=2592000m">
 
-![Visitor Count](https://profile-counter.glitch.me/JoseArjona/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/CesarZepeda23/count.svg)
 
 Un Lol?
 
@@ -10,7 +10,7 @@ Un Lol?
 
 <div >
 <img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarZepeda23&show_icons=true&theme=gotham">
-<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarZepeda23&layout=compact&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarZepeda23&layout=compact&show_icons=true&theme=dark">
 
 </div>
 
