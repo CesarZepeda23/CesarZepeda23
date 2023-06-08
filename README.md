@@ -1,4 +1,4 @@
-## Hola 👋, Soy Jose Arjona, Desarrollador Web Mexicano 🇲🇽. 🟩⬜🟥 <img align="center" alt="Arj"  src="https://img.shields.io/github/followers/JoseArjona.svg?style=social&label=Follow&maxAge=2592000m">
+## Hola 👋, Soy Eduardo Zepeda, Desarrollador Web Mexicano 🇲🇽. 🟩⬜🟥 <img align="center" alt="Zepeda"  src="https://img.shields.io/github/followers/JoseArjona.svg?style=social&label=Follow&maxAge=2592000m">
 
 ![Visitor Count](https://profile-counter.glitch.me/JoseArjona/count.svg)
 
